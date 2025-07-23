@@ -10,25 +10,16 @@ private:
     std::string name = "Jakub";
     std::string alias = "Baju";
     std::string location = "Bratislava, Slovakia";
-    std::string role = "Student & Low-Level Programming Enthusiast";
+    std::string role = "Performance Critical Systems Developer";
+    std::string 
     
 public:
-    std::vector getCurrentFocus() {
-        return {
-            "Building a virtual Linux shell",
-            "Advancing C++ skills",
-            "Exploring system-level programming"
-        };
-    }
-    
     std::vector getLearningQueue() {
-        return {"Rust", "Assembly", "Hardware interaction"};
+        return {"Rust", "Assembly", "OpenGL", "Vulkan"};
     }
-    
     std::string getPassion() {
         return "Performance-critical systems & low-level optimization";
     }
-    
     void printStatus() {
         std::cout << "Status: Crafting efficient code, one instruction at a time" << std::endl;
     }
@@ -65,6 +56,7 @@ call Vulkan
 
 *"Premature optimization is the root of all evil, but timely optimization is the art of performance"*
 
-**Let's build something fast together!** ⚡
-
+```cpp⚡
+Developer Baju.close();
+```
 </div>
