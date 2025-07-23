@@ -10,10 +10,9 @@ private:
     std::string name = "Jakub";
     std::string alias = "Baju";
     std::string location = "Bratislava, Slovakia";
-    std::string role = "Performance Critical Systems Developer";
-
+    std::vector<string> role = { "Student","Performance Critical Systems Developer"};
     std::vector<string> lang's = {"Slovak,SK","English,EN"};
-    std::map<string, string> = { "Prog Lang" > " 
+    std::map<string, string> = { "Programming Language" > "C++" }
     
 public:
     std::vector getLearningQueue() {
