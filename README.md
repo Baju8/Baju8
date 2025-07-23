@@ -45,13 +45,6 @@ public:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-## 🎯 What I'm Working On
-
-- 🐚 **Virtual Linux Shell** - Building a shell from scratch to understand OS internals
-- ⚡ **Performance Optimization** - Writing code that makes every CPU cycle count
-- 🔩 **System Programming** - Getting closer to the cpu with low level interaction
-
 ## 🚀 Currently Learning
 
 ```assembly
