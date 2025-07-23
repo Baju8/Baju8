@@ -1,9 +1,9 @@
 # Hey there! 👋 I'm Jakub (Baju)
 
 ```cpp
-#include 
-#include 
-#include 
+#include <Baju.h>
+#include <iostream>  
+#include <Desc.hpp>
 
 class Developer {
 private:
@@ -50,7 +50,7 @@ public:
 
 - 🐚 **Virtual Linux Shell** - Building a shell from scratch to understand OS internals
 - ⚡ **Performance Optimization** - Writing code that makes every CPU cycle count
-- 🔩 **System Programming** - Getting closer to the metal with hardware interaction
+- 🔩 **System Programming** - Getting closer to the cpu with low level interaction
 
 ## 🚀 Currently Learning
 
@@ -58,13 +58,13 @@ public:
 ; Next on the learning stack
 mov rax, rust_skills
 add rax, assembly_knowledge
-push hardware_interaction
-call optimize_everything
+push OpenGL
+call Vulkan
 ```
 
 ## 📊 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=baju8&color=blue&style=flat-square)
 
 ---
 
