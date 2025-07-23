@@ -11,8 +11,8 @@ private:
     std::string alias = "Baju";
     std::string location = "Bratislava, Slovakia";
     std::vector<string> role = { "Student","Performance Critical Systems Developer"};
-    std::vector<string> lang's = {"Slovak,SK","English,EN"};
-    std::map<string, string> = { "Programming Language" > "C++" }
+    std::vector<string> spoken_languages = {"Slovak,SK","English,EN"};
+    std::map<string, string> = { "Programming Language" > "C++" };
     
 public:
     std::vector getLearningQueue() {
