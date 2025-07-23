@@ -11,7 +11,9 @@ private:
     std::string alias = "Baju";
     std::string location = "Bratislava, Slovakia";
     std::string role = "Performance Critical Systems Developer";
-    std::string 
+
+    std::vector<string> lang's = {"Slovak,SK","English,EN"};
+    std::map<string, string> = { "Prog Lang" > " 
     
 public:
     std::vector getLearningQueue() {
@@ -24,6 +26,7 @@ public:
         std::cout << "Status: Crafting efficient code, one instruction at a time" << std::endl;
     }
 };
+Developer Baju.close();
 ```
 
 ## 🔧 Tech Stack
@@ -56,7 +59,4 @@ call Vulkan
 
 *"Premature optimization is the root of all evil, but timely optimization is the art of performance"*
 
-```cpp⚡
-Developer Baju.close();
-```
 </div>
