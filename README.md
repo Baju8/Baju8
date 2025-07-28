@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Jakub (Baju)
 ![Profile Views](https://komarev.com/ghpvc/?username=baju8&color=blue&style=flat-square)
 ##
-A Student thats learning new things 
+A Student whose programming skills come from reddit
 ##
 # About me🙋‍♂️
 ```cpp
