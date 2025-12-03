@@ -3,7 +3,7 @@
 ##
 A Student whose programming skills come from reddit
 ##
-# About me🙋‍♂️
+# About me
 ```cpp
 #include <Baju.h>
 #include <iostream>  
