@@ -14,13 +14,13 @@ private:
     std::string name = "Jakub";
     std::string alias = "Baju";
     std::string location = "Bratislava, Slovakia";
-    std::vector<string> role = { "Student","Performance Critical Systems Developer"};
-    std::vector<string> spoken_languages = {"Slovak,SK","English,EN"};
-    std::map<string, string> = { "Programming Language" > "C++" };
+    std::vector<string> role = { "Student","(want to be)Performance Critical Systems Developer"};
+    std::vector<string> spoken_languages = {"Slovak,SK","English,EN",(a small bit of)"German,DE"};
+    std::map<string, string> = { "Programming Languages" > "C++" };
     
 public:
     void printInterests() {
-        std::cout << "Virtualization" << "\n" << "Compiler Toolchain Internals" << "Concurrency and Multithreading";
+        std::cout << "Virtualization" << "\n" << "Concurrency and Multithreading";
     }
     void printStatus() {
         std::cout << "Crafting efficient code, one instruction at a time" << std::endl;
@@ -48,10 +48,8 @@ Developer Baju.close();
 
 ```assembly
 ; Next on the learning stack
-mov rax, rust_skills
+mov rax, GO
 add rax, assembly_knowledge
-push OpenGL
-call Vulkan
 ```
 ##
 <div align="center">
