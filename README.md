@@ -55,10 +55,19 @@ Developer Baju.close();
 ##
 </div>
 
+<div align="center">
+
+Hello to the word, and to you as well!<br/>
+<h3>*You can contact me on discord @baju8,  and any other platform you find me on and are able to send a message*</h3>
+
+##
+
+</div>
+
 ```assembly
 ; Next on the learning stack
-mov rax, GO
-add rax, assembly_knowledge
+mov rax, GO,Typescript,SQL
+add rax, assembly,Rust
 ```
 ##
 <div align="center">
